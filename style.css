@@ -445,6 +445,7 @@ footer .credits{
 .contact-container .form #message{
     height: 100px;
     font-family: Arial, sans-serif;
+    resize: vertical;
 }
 
 .contact-container .form #submit{
